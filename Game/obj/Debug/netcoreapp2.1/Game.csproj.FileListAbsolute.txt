@@ -1,0 +1,11 @@
+/Users/kseniagustsenko/Desktop/program.alused/Game/Game/bin/Debug/netcoreapp2.1/Game.deps.json
+/Users/kseniagustsenko/Desktop/program.alused/Game/Game/bin/Debug/netcoreapp2.1/Game.runtimeconfig.json
+/Users/kseniagustsenko/Desktop/program.alused/Game/Game/bin/Debug/netcoreapp2.1/Game.runtimeconfig.dev.json
+/Users/kseniagustsenko/Desktop/program.alused/Game/Game/bin/Debug/netcoreapp2.1/Game.dll
+/Users/kseniagustsenko/Desktop/program.alused/Game/Game/bin/Debug/netcoreapp2.1/Game.pdb
+/Users/kseniagustsenko/Desktop/program.alused/Game/Game/obj/Debug/netcoreapp2.1/Game.csprojAssemblyReference.cache
+/Users/kseniagustsenko/Desktop/program.alused/Game/Game/obj/Debug/netcoreapp2.1/Game.csproj.CoreCompileInputs.cache
+/Users/kseniagustsenko/Desktop/program.alused/Game/Game/obj/Debug/netcoreapp2.1/Game.AssemblyInfoInputs.cache
+/Users/kseniagustsenko/Desktop/program.alused/Game/Game/obj/Debug/netcoreapp2.1/Game.AssemblyInfo.cs
+/Users/kseniagustsenko/Desktop/program.alused/Game/Game/obj/Debug/netcoreapp2.1/Game.dll
+/Users/kseniagustsenko/Desktop/program.alused/Game/Game/obj/Debug/netcoreapp2.1/Game.pdb
